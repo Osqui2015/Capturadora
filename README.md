@@ -1,0 +1,3 @@
+# Capturadora
+
+"Esta página web es una herramienta útil para el manejo de registros médicos y fotografías de pacientes. En la pantalla principal se presenta una lista de pacientes que permite una fácil búsqueda y selección. Al elegir un paciente, se accede a una segunda pantalla con opciones para tomar fotografías con la cámara, visualizarlas y eliminar las que no se necesiten. También se ofrece la posibilidad de guardar las imágenes con un nombre descriptivo para un fácil acceso posterior. Esta página es perfecta para profesionales de la salud y otros usuarios que necesiten un sistema eficiente y organizado para gestionar registros médicos."
